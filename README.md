@@ -1,7 +1,7 @@
 
 ### uncommon-type <img src="https://github.com/uncommon-type/uncommon-type/assets/74302233/02bb27af-6bd0-442e-84b8-4d943e88e94c" width="35px" alt=""/>
 
-Software engineer with the passion for technology.
+Curious mind with the passion for technology.
 <br/>
 
 
